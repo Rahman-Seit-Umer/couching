@@ -47,7 +47,7 @@ export default function Home() {
         </div>
 
         <div className="portrait-card" aria-label="Портрет Романа Сейтумерова">
-          <img src="/images/roman-portrait.jpeg" alt="Роман Сейтумеров" />
+          <img src="/images/roman-portrait-green.jpeg" alt="Роман Сейтумеров" />
           <div className="portrait-caption">
             <strong>Роман Сейтумеров</strong>
             <span>Психолог-консультант</span>
